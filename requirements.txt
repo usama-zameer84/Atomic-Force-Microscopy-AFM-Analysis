@@ -1,0 +1,6 @@
+numpy
+streamlit
+matplotlib
+pytest
+PyPDF2
+setuptools
